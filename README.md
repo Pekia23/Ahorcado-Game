@@ -56,7 +56,11 @@ El ranking se calcula automáticamente mostrando los **5 jugadores con mayor pun
 
 ## 🖼️ Mockups del Juego
 ![image](https://github.com/user-attachments/assets/ce42d339-86c8-41f5-ba03-030d2253e510)
+
+
 ![image](https://github.com/user-attachments/assets/56a86532-e9fb-4285-a8e5-3710a5c1473b)
+
+
 ![image](https://github.com/user-attachments/assets/307da558-842e-487a-8e0f-89081191cabb)
 
 
